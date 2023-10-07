@@ -1,9 +1,4 @@
-/*
- * UART.C
- *
- *  Created on: Aug 27, 2023
- *      Author: Salem Elfaidy
- */
+
 #include "BIT_Math.h"
 #include "STD_Types.h"
 #include <avr/io.h>

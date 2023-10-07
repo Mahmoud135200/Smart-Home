@@ -1,9 +1,3 @@
-/***************************************************/
-/* Description : Standard LIB for Bit manipulation */
-/* Author      : Salem Elfaidy                     */
-/* Date        : 18-7-2023                         */
-/* Version     :  0.1 V                            */
-/***************************************************/
 
 #ifndef BIT_MATH_H
 #define BIT_MATH_H

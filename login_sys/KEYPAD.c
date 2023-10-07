@@ -1,9 +1,4 @@
-/*
- * KEYPAD.c
- *
- *  Created on: Aug 17, 2023
- *      Author: Salem Elfaidy
- */
+
 #include <avr/io.h>
 #include <util/delay.h>
 #include "STD_Types.h"

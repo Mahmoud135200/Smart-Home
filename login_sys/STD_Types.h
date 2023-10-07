@@ -1,9 +1,4 @@
-/********************************************/
-/* Description : Standard lib for new types */
-/* Author      : Salem Elfaidy             */
-/* Date        : 18-7-2023                   */
-/* Version     :  0.1 V                     */
-/********************************************/
+
 
  #ifndef   STD_TYPES_H
  #define   STD_TYPES_H
