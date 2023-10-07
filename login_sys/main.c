@@ -13,7 +13,7 @@ int main(){
 
 
 	u8 input, i=0, wrong = 0, warning = 0;
-	u8 currentPass[] = "1111";
+	u8 currentPass[] = "1112";
 
 
 	// Initialization
