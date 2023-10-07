@@ -1,9 +1,4 @@
-/*
- * ADC.h
- *
- *  Created on: Aug 22, 2023
- *      Author: Salem Elfaidy
- */
+
 
 #ifndef ADC_H
 #define ADC_H

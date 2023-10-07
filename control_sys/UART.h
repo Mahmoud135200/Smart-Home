@@ -1,9 +1,3 @@
-/*
- * UART.h
- *
- *  Created on: Aug 27, 2023
- *      Author: Salem Elfaidy
- */
 
 #ifndef UART_H
 #define UART_H

@@ -1,9 +1,3 @@
-/*
- * TIM0.h
- *
- *  Created on: Aug 23, 2023
- *      Author: Salem Elfaidy
- */
 
 #ifndef TIM0_H
 #define TIM0_H

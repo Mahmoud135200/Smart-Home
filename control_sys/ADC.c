@@ -1,9 +1,4 @@
-/*
- * ADC.c
- *
- *  Created on: Aug 22, 2023
- *      Author: Salem Elfaidy
- */
+
 #include "BIT_Math.h"
 #include "STD_Types.h"
 #include <avr/io.h>

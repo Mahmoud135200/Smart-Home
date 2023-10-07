@@ -1,9 +1,4 @@
-/*
- * TIM0.c
- *
- *  Created on: Aug 23, 2023
- *      Author: Salem Elfaidy
- */
+
 #include "BIT_Math.h"
 #include "STD_Types.h"
 #include <avr/io.h>
